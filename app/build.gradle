@@ -1,0 +1,14 @@
+plugins {
+    id 'tictactoe.java-application-conventions'
+    id 'org.beryx.jlink' version '2.24.0'
+}
+
+dependencies {
+    implementation project(':lib')
+    implementation 'it.unimi.dsi:fastutil:8.5.2'
+}
+
+application {
+    mainClass = 'io.github.ititus.tictactoe.app.App'
+    mainModule = 'io.github.ititus.tictactoe.app'
+}

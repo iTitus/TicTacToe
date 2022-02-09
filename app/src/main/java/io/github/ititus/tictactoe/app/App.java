@@ -1,7 +1,7 @@
 package io.github.ititus.tictactoe.app;
 
-import io.github.ititus.math.time.DurationFormatter;
-import io.github.ititus.math.time.StopWatch;
+import io.github.ititus.commons.math.time.DurationFormatter;
+import io.github.ititus.commons.math.time.StopWatch;
 import io.github.ititus.tictactoe.lib.Game;
 import io.github.ititus.tictactoe.lib.Mark;
 import io.github.ititus.tictactoe.lib.board.*;

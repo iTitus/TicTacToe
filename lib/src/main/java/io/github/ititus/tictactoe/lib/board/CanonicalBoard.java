@@ -1,6 +1,6 @@
 package io.github.ititus.tictactoe.lib.board;
 
-import io.github.ititus.data.pair.Pair;
+import io.github.ititus.commons.data.pair.Pair;
 import io.github.ititus.tictactoe.lib.Mark;
 import io.github.ititus.tictactoe.lib.Pos;
 import io.github.ititus.tictactoe.lib.Transform;

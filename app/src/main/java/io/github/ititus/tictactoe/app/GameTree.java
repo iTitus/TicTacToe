@@ -1,9 +1,9 @@
 package io.github.ititus.tictactoe.app;
 
-import io.github.ititus.data.mutable.Mutable;
-import io.github.ititus.data.pair.IntIntPair;
-import io.github.ititus.data.pair.Pair;
-import io.github.ititus.io.PathUtil;
+import io.github.ititus.commons.data.mutable.Mutable;
+import io.github.ititus.commons.data.pair.IntIntPair;
+import io.github.ititus.commons.data.pair.Pair;
+import io.github.ititus.commons.io.PathUtil;
 import io.github.ititus.tictactoe.lib.Mark;
 import io.github.ititus.tictactoe.lib.Pos;
 import io.github.ititus.tictactoe.lib.Transform;

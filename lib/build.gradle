@@ -3,6 +3,6 @@ plugins {
 }
 
 dependencies {
-    api 'io.github.ititus:ititus-commons:2.1.0'
+    api 'io.github.ititus:ititus-commons:2.2.0'
     implementation 'it.unimi.dsi:fastutil:8.5.8'
 }
